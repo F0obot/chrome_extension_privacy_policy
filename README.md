@@ -12,6 +12,3 @@ Changes to the Privacy Policy
 I reserve the right to modify this Privacy Policy at any time. Any updates will take effect immediately upon posting, and the "Effective Date" will be updated accordingly. You are encouraged to periodically review this Privacy Policy for any changes.
 
 By using my Google Chrome extension(s), you acknowledge and accept the terms of this Privacy Policy. If you do not agree with any part of this Privacy Policy, please discontinue use of the extension(s).
-
-Contact
-If you have any questions or concerns regarding this Privacy Policy, feel free to reach out to me via email.
